@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Typing animation with slower speed -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Mouassa+Salsabil;Computer+Science+Student;Future+Cybersecurity+Specialist&center=true&width=600&height=60&color=FF69B4&font=Fira+Code&duration=4000&pause=1000"/>
+</p>
 
-<!--
-**mouassa-as/mouassa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student | Future Cybersecurity Specialist
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Computer Science student with a strong passion for Cybersecurity.  
+Currently focusing on improving programming skills and exploring Ethical Hacking and Web Security.  
+I enjoy learning new technologies daily and aim to become a Cybersecurity expert.
+
+---
+
+## Skills & Tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## Cybersecurity (Beginner)
+
+<p align="center">
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
+---
+
+## GitHub Stats (Compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=issues,prs" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=TeX" width="300"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+<a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
+</p>
