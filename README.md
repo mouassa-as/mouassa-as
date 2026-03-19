@@ -43,6 +43,8 @@ I enjoy learning new technologies daily and aim to become a Cybersecurity expert
 ## Contact
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
+<a href="mailto:as_mouassa@estin.dz"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
+<a href="www.linkedin.com/in/
+salsabil-mouassa-991b62392
+"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
 </p>
