@@ -40,15 +40,6 @@ I enjoy learning new technologies daily and aim to become a Cybersecurity expert
 
 ---
 
-## GitHub Stats (Compact)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=issues,prs" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=TeX" width="300"/>
-</p>
-
----
-
 ## Contact
 
 <p align="center">
